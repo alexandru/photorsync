@@ -1,0 +1,4 @@
+source https://api.nuget.org/v3/index.json
+source https://dotnet.myget.org/F/dotnet-cli/api/v3/index.json
+source https://www.myget.org/F/fsharp-daily/api/v3/index.json
+nuget FAKE
